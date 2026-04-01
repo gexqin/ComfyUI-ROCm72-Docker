@@ -33,7 +33,7 @@
 ```yaml
 services:
   comfyui-rocm:
-    image: qinzhen/comfyui-rocm:latest 
+    image: qinzhen/comfyui-rocm72:latest 
     container_name: comfyui-rocm
     runtime: runc
     devices:
